@@ -1,0 +1,11 @@
+{
+  "title": "K8S 101",
+  "description": "Introduction to k8s",
+  "courses": [
+    {
+      "course_id": "k8s-intro-01",
+      "title": "k8s-intro-01",
+      "description": "k8s-intro-01"
+    }
+  ]
+}
